@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SubjectTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-03T11:56:52" hostname="MNLITA06-W10" time="0.034">
+  <properties/>
+  <testcase name="should_display_subscribers_output_when_setState_given_subject_with_many_subscribers()" classname="SubjectTest" time="0.03"/>
+  <testcase name="should_display_only_subscribers_output_when_setState_given_subject_with_many_subscribers()" classname="SubjectTest" time="0.002"/>
+  <testcase name="should_display_subscriber_output_when_setState_given_subject_with_one_subscriber()" classname="SubjectTest" time="0.0"/>
+  <system-out><![CDATA[My name is Adrian, I am a subscriber. The message is: bring your umbrella
+My name is Amiel, I am a subscriber. The message is: bring your umbrella
+My name is Jamie, I am a subscriber. The message is: bring your umbrella
+My name is Noel, I am a subscriber. The message is: bring your umbrella
+My name is Ryan Jay, I am a subscriber. The message is: bring your umbrella
+My name is Adrian, I am a subscriber. The message is: turn on your flashlight
+My name is Amiel, I am a subscriber. The message is: turn on your flashlight
+My name is Jamie, I am a subscriber. The message is: turn on your flashlight
+My name is Gabriel, I am a subscriber. The message is: Hello World!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
